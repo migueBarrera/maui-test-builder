@@ -1,0 +1,17 @@
+.vs/
+apks/
+bin/
+obj/
+tools/
+
+*.bak
+*.orig
+*.user
+*.designer.cs
+
+UpgradeLog*.htm
+
+StyleCop.Cache
+
+src/Mapal.ControlPresencia.Tests/TestResults
+src/Mapal.ControlPresencia/res/**
